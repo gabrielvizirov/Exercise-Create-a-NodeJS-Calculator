@@ -1,0 +1,14 @@
+91. Exercise: Creating a Node Calculator
+
+http://blog.devslopes.com/exercise-create-a-nodejs...
+
+Exercise - Create a NodeJS Calculator
+31 JANUARY 2016 by Mark Price
+NodeJS Calculator
+
+Using node and the NPM package readline-sync create a simple calculator.
+
+When the program runs it will show the text "Please enter a number"
+After the number is entered it will say, "Please enter another number"
+After the second number is entered show a prompt that says, "Please enter an operator (+, - , / , * )"
+The user will enter an operator. Once that operator is entered the result of the operation will be printed to the screen.
